@@ -1,0 +1,51 @@
+1，能够理解Linux的概念
+a，	说出Linux的发展历史（unix -> linux内核）
+b，	说出Linux的作用(可以多用户、多任务的处理业务，一般用作系统服务器)
+c，	说出Linux的目录构成（bin/sbin/var/usr/tmp... / 根目录）
+
+2，能够独立安装Linux虚拟机
+a，	独立使用虚拟机软件安装Linux系统
+b，	分析出安装虚拟机需要注意的事项（设置镜像、网络、虚拟机占用）
+c，	分析出安装虚拟机出现问题的解决方案（快照、克隆）
+
+3，能够独立使用Linux系统
+a，	独立使用root用户登录系统
+b，	独立使用passwd命令修改root用户密码
+c，	独立使用命令配置网络（ifconfig ）
+d，	独立使用CRT/Xshell工具对Linux系统进行远程连接
+e，	独立使用Linux基础操作命令
+f，	独立使用Linux命令实现对文件的复制(cp)
+g，	独立使用Linux命令实现对文件的移动(mv)
+h，	独立使用Linux命令实现对文件的删除(rm)
+i，	独立使用Linux命令实现对目录的复制(cp)
+j，	独立使用Linux命令实现对目录的移动
+k，	独立使用Linux命令实现对目录的删除
+l，	独立使用Linux命令实现对文件的创建 touch
+m，	独立使用Linux命令实现对文件的编辑 vim 
+n，	独立使用Linux命令实现对文件的压缩 tar zip 
+o，	独立使用Linux命令实现对目录的压缩 
+p，	独立使用Linux命令实现对压缩文件的解压缩 tar(-zxvf) unzip
+q，	说出重定向操作符的用法( >直接将内容写入到文件中 >> 追加内容到文件中) 
+r，	说出管道操作符的用法（| 一个命令的输出作为后面命令的输入）
+s，	说出命令执行控制操作符的用法（&& 前面命令执行成功，执行后面的命令）
+
+4，能够独立使用Linux系统的多用户
+a，	说出Linux系统多用户的作用（同时处理不同用户的业务操作）
+b，	说出Linux系统多任务的作用（提高系统的利用率）
+c，	独立使用Linux命令创建一个用户组（groupadd）
+d，	独立使用Linux命令创建一个用户(useradd)
+e，	独立使用Linux命令为用户指定用户组(useradd -g xxx)
+f，	独立使用Linux命令修改用户的密码(passwd username)
+g，	独立使用新用户登录Linux系统
+h，	独立使用Linux命令实现用户的切换(su )
+
+5，能够独立修改Linux系统的文件权限
+a，	独立使用Linux命令为文件指定权限(chmod)
+b，	独立使用Linux命令为目录指定权限
+c，	独立使用Linux命令改变文件权限
+d，	独立使用Linux命令改变目录权限
+
+6，能够独立在Linux系统中安装应用软件
+a，	独立在Linux系统中安装JDK
+b，	独立在Linux系统中安装Tomcat
+c，	独立在Linux系统中安装MySql
